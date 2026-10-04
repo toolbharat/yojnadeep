@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Government Yojanas - सारी Yojana List | YojnaDeep</title>
-    <meta name="description" content="India ki saari sarkari yojanaon ki list. PM Kisan, Ayushman Bharat, Sukanya Samriddhi, PM Awas aur bahut kuch. Category-wise, ministry-wise complete list.">
-    <meta name="keywords" content="sarkari yojana list, government schemes, all yojana, yojana list">
-    <link rel="canonical" href="https://yojnadeep.pixsathi.in/yojana/">
-    <link rel="stylesheet" href="../style.css">
+    <title>YojnaDeep - सारी Sarkari Yojana एक जगह</title>
+    <meta name="description" content="YojnaDeep - Find all government schemes in India. PM Kisan, Ayushman Bharat, Sukanya Samriddhi aur 3000+ yojanaon ki jaankari Hindi aur English mein.">
+    <meta name="keywords" content="yojna, sarkari yojana, government schemes, pm kisan, ayushman bharat">
+    <link rel="canonical" href="https://yojnadeep.pixsathi.in/">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header class="header">
     <div class="container">
-        <a href="../index.html" class="logo-link">
+        <a href="index.html" class="logo-link">
             <div class="logo">
                 <span class="logo-icon">🪔</span>
                 <div>
@@ -23,51 +23,67 @@
             </div>
         </a>
         <nav class="nav">
-            <a href="../index.html">🏠 Home</a>
-            <a href="index.html">📋 Yojana</a>
-            <a href="../index.html#categories">📚 Categories</a>
+            <a href="index.html">🏠 Home</a>
+            <a href="yojana/index.html">📋 Yojana</a>
+            <a href="#categories">📚 Categories</a>
         </nav>
     </div>
 </header>
 
+<section class="hero">
+    <div class="container">
+        <h1>सारी Sarkari Yojana एक जगह</h1>
+        <p>PM Kisan, Ayushman Bharat, Sukanya Samriddhi और 3000+ योजनाओं की पूरी जानकारी — बिल्कुल Free</p>
+        
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="🔍 योजना खोजें... (जैसे: PM Kisan)">
+            <button onclick="searchYojana()">Search</button>
+        </div>
+
+        <div class="trust-badges">
+            <span>✅ 25+ Schemes</span>
+            <span>🇮🇳 For India</span>
+            <span>📱 Mobile Friendly</span>
+        </div>
+    </div>
+</section>
+
 <main class="container">
 
-    <section class="section" style="margin-top: 30px;">
-        <h1 style="font-size: 28px; color: #1e3a8a; margin-bottom: 8px;">सारी Sarkari Yojana</h1>
-        <p style="font-size: 14px; color: #666; margin-bottom: 24px;">हर योजना की पूरी जानकारी — eligibility, documents, apply process।</p>
-    </section>
-
-    <section class="section">
+    <section class="section" id="popular">
         <h2>🔥 Popular Yojanas</h2>
         <div class="card-grid">
-            <a href="pm-kisan.html" class="card">
+            <a href="yojana/pm-kisan.html" class="card">
                 <div class="card-icon">🌾</div>
                 <h3>PM Kisan Samman Nidhi</h3>
                 <p>₹6,000/year for farmers</p>
                 <span class="card-cta">Read More →</span>
             </a>
-            <a href="ayushman-bharat.html" class="card">
+            <a href="yojana/ayushman-bharat.html" class="card">
                 <div class="card-icon">🏥</div>
                 <h3>Ayushman Bharat</h3>
                 <p>₹5 लाख health cover</p>
                 <span class="card-cta">Read More →</span>
             </a>
-            <a href="sukanya-samriddhi.html" class="card">
+            <a href="yojana/sukanya-samriddhi.html" class="card">
                 <div class="card-icon">👧</div>
                 <h3>Sukanya Samriddhi</h3>
                 <p>Beti ke liye savings scheme</p>
                 <span class="card-cta">Read More →</span>
             </a>
-            <a href="pm-awas.html" class="card">
+            <a href="yojana/pm-awas.html" class="card">
                 <div class="card-icon">🏠</div>
                 <h3>PM Awas Yojana</h3>
                 <p>Affordable housing for all</p>
                 <span class="card-cta">Read More →</span>
             </a>
-            <a href="pm-mudra.html" class="card">
+            <a href="yojana/pm-mudra.html" class="card">
                 <div class="card-icon">💼</div>
                 <h3>PM Mudra Loan</h3>
-                            <a href="yojana/pm-fasal-bima.html" class="card">
+                <p>Business loan up to ₹10 lakh</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="yojana/pm-fasal-bima.html" class="card">
                 <div class="card-icon">🌾</div>
                 <h3>PM Fasal Bima Yojana</h3>
                 <p>फसल बीमा योजना</p>
@@ -97,13 +113,25 @@
                 <p>₹2 लाख दुर्घटना बीमा</p>
                 <span class="card-cta">Read More →</span>
             </a>
-                <p>Business loan up to ₹10 lakh</p>
+            <a href="yojana/pm-jeevan-jyoti.html" class="card">
+                <div class="card-icon">💙</div>
+                <h3>PM Jeevan Jyoti Bima</h3>
+                <p>₹2 लाख जीवन बीमा</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="yojana/beti-bachao.html" class="card">
+                <div class="card-icon">👧</div>
+                <h3>Beti Bachao Beti Padhao</h3>
+                <p>बेटी बचाओ, बेटी पढ़ाओ</p>
                 <span class="card-cta">Read More →</span>
             </a>
         </div>
+        <p style="text-align: center; margin-top: 20px;">
+            <a href="yojana/index.html" style="color: #ff6b35; font-weight: 700; text-decoration: none;">सभी 25+ Yojanas देखें →</a>
+        </p>
     </section>
 
-    <section class="section">
+    <section class="section" id="categories">
         <h2>📚 Categories</h2>
         <div class="category-grid">
             <div class="category">🌾 Agriculture</div>
@@ -114,16 +142,11 @@
             <div class="category">💼 Business</div>
             <div class="category">🎓 Students</div>
             <div class="category">🧓 Senior Citizens</div>
-            <div class="category">👷 Labour</div>
-            <div class="category">🚜 Farmers</div>
-            <div class="category">🏭 Industry</div>
-            <div class="category">🛡️ Defence</div>
         </div>
-        <p style="font-size: 13px; color: #666; margin-top: 16px;">⚠️ हम और योजनाएँ जोड़ रहे हैं — bookmark करें!</p>
     </section>
 
     <section class="section">
-        <h2>📍 State-wise Yojanas</h2>
+        <h2>📍 By State</h2>
         <div class="state-grid">
             <span>Delhi</span>
             <span>UP</span>
@@ -131,23 +154,14 @@
             <span>Maharashtra</span>
             <span>MP</span>
             <span>Rajasthan</span>
-            <span>Gujarat</span>
-            <span>Tamil Nadu</span>
-            <span>Karnataka</span>
-            <span>West Bengal</span>
+            <span>All States →</span>
         </div>
-        <p style="font-size: 13px; color: #666; margin-top: 16px;">⚠️ जल्द आ रहे हैं!</p>
     </section>
 
-    <section class="section info-box">
-        <h2>🔍 कैसे ढूँढें अपनी योजना</h2>
-        <ol style="margin-left: 20px;">
-            <li>Homepage पर जाएँ और search box use करें</li>
-            <li>Category wise browse करें</li>
-            <li>State wise देखें</li>
-            <li>Eligibility के हिसाब से filter करें</li>
-        </ol>
-        <p style="margin-top: 12px;">अगर कोई योजना न मिले तो हमें बताएँ — हम जोड़ देंगे।</p>
+    <section class="section info-box" id="about">
+        <h2>YojnaDeep के बारे में</h2>
+        <p>YojnaDeep भारत की सरकारी योजनाओं की जानकारी देने वाला पोर्टल है। हमारा लक्ष्य है कि हर भारतीय नागरिक को उसकी पात्रता वाली सभी योजनाओं की जानकारी आसान भाषा में मिले — बिल्कुल Free।</p>
+        <p>हम हर योजना की पूरी जानकारी देते हैं — eligibility, documents, apply process, official website।</p>
     </section>
 
 </main>
@@ -156,12 +170,39 @@
     <div class="container">
         <p>&copy; 2026 YojnaDeep | योजनाओं का दीप</p>
         <p>
-            <a href="../index.html">Home</a> ·
-            <a href="index.html">Yojana</a> ·
-            <a href="../index.html#about">About</a>
+            <a href="index.html">Home</a> ·
+            <a href="yojana/index.html">Yojana</a> ·
+            <a href="#about">About</a>
         </p>
     </div>
 </footer>
+
+<script>
+function searchYojana() {
+    const q = document.getElementById('searchInput').value.trim().toLowerCase();
+    if (!q) return;
+    if (q.includes('kisan') && !q.includes('maan')) {
+        window.location.href = 'yojana/pm-kisan.html';
+    } else if (q.includes('ayushman') || q.includes('health')) {
+        window.location.href = 'yojana/ayushman-bharat.html';
+    } else if (q.includes('sukanya') || q.includes('beti')) {
+        window.location.href = 'yojana/sukanya-samriddhi.html';
+    } else if (q.includes('awas') || q.includes('house')) {
+        window.location.href = 'yojana/pm-awas.html';
+    } else if (q.includes('mudra') || q.includes('loan')) {
+        window.location.href = 'yojana/pm-mudra.html';
+    } else if (q.includes('fasal') || q.includes('bima')) {
+        window.location.href = 'yojana/pm-fasal-bima.html';
+    } else if (q.includes('pension') || q.includes('atal')) {
+        window.location.href = 'yojana/atal-pension.html';
+    } else {
+        window.location.href = 'yojana/index.html';
+    }
+}
+document.getElementById('searchInput').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') searchYojana();
+});
+</script>
 
 </body>
 </html>
