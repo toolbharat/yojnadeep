@@ -1,41 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-kisan.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/ayushman-bharat.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/sukanya-samriddhi.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-awas.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-mudra.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-    <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-fasal-bima.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/about.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/contact.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/privacy-policy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-kisan.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/ayushman-bharat.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/sukanya-samriddhi.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-awas.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-mudra.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-fasal-bima.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://yojnadeep.pixsathi.in/yojana/atal-pension.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-jan-dhan.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-ujjwala.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -55,134 +30,24 @@
   <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-matsya-sampada.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://yojnadeep.pixsathi.in/yojana/ayushman-digital.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-awas-urban.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-shram-yogi.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-kaushal-vikas.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/stand-up-india.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/startup-india.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/soil-health-card.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/e-nam.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-fme.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/ujala.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/saubhagya.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-kusum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-jan-aushadhi.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/rashtriya-vayoshri.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/rashtriya-swasthya-bima.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/aam-aadmi-bima.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/nai-roshni.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/padho-pardesh.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/post-matric-scholarship.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pre-matric-scholarship.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/pm-scholarship.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yojnadeep.pixsathi.in/yojana/national-means-scholarship.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-  <loc>https://yojnadeep.pixsathi.in/about.html</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
-</url>
-<url>
-  <loc>https://yojnadeep.pixsathi.in/privacy-policy.html</loc>
-  <changefreq>yearly</changefreq>
-  <priority>0.3</priority>
-</url>
-<url>
-  <loc>https://yojnadeep.pixsathi.in/contact.html</loc>
-  <changefreq>yearly</changefreq>
-  <priority>0.5</priority>
-</url>
-  <url>
-  <loc>https://yojnadeep.pixsathi.in/about.html</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
-</url>
-<url>
-  <loc>https://yojnadeep.pixsathi.in/privacy-policy.html</loc>
-  <changefreq>yearly</changefreq>
-  <priority>0.3</priority>
-</url>
-<url>
-  <loc>https://yojnadeep.pixsathi.in/contact.html</loc>
-  <changefreq>yearly</changefreq>
-  <priority>0.5</priority>
-</url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-shram-yogi.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-kaushal-vikas.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/stand-up-india.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/startup-india.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/soil-health-card.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/e-nam.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-fme.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/ujala.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/saubhagya.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-kusum.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-jan-aushadhi.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/rashtriya-vayoshri.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/rashtriya-swasthya-bima.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/aam-aadmi-bima.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/nai-roshni.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/padho-pardesh.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/post-matric-scholarship.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pre-matric-scholarship.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/pm-scholarship.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://yojnadeep.pixsathi.in/yojana/national-means-scholarship.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
