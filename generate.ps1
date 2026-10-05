@@ -43,6 +43,14 @@ foreach ($line in $pages) {
 <meta name="description" content="$t - $d. Eligibility, benefits, documents, apply process, official website. Complete information in Hindi and English.">
 <link rel="canonical" href="https://yojnadeep.pixsathi.in/yojana/$f">
 <link rel="stylesheet" href="../style.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FLK6E7NJQ3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FLK6E7NJQ3');
+</script>
 </head>
 <body>
 <header class="header">
