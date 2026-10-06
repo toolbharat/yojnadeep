@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>सारी Sarkari Yojana - YojnaDeep</title>
+    <meta name="description" content="सभी सरकारी योजनाओं की पूरी जानकारी - PM Kisan, Ayushman Bharat, Sukanya Samriddhi और 45+ योजनाएं।">
+    <link rel="canonical" href="https://yojnadeep.pixsathi.in/yojana/">
+    <link rel="stylesheet" href="../style.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FLK6E7NJQ3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FLK6E7NJQ3');
+</script>
+</head>
+<body>
+
+<header class="header">
+    <div class="container">
+        <a href="../index.html" class="logo-link">
+            <div class="logo">
+                <span class="logo-icon">🪔</span>
+                <div>
+                    <div class="logo-text">YojnaDeep</div>
+                    <div class="logo-tagline">योजनाओं का दीप</div>
+                </div>
+            </div>
+        </a>
+        <nav class="nav">
+            <a href="../index.html">🏠 Home</a>
+            <a href="index.html">📋 Yojana</a>
+            <a href="../index.html#categories">📚 Categories</a>
+            <a href="../about.html">ℹ️ About</a>
+            <a href="../contact.html">📞 Contact</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="container">
+        <h1>सारी Sarkari Yojana</h1>
+        <p>हर योजना की पूरी जानकारी — eligibility, documents, apply process।</p>
+    </div>
+</section>
+
+<main class="container">
+
+    <section class="section">
+        <h2>🔥 सभी योजनाएं</h2>
+        <div class="card-grid">
+            <a href="pm-kisan.html" class="card">
+                <div class="card-icon">🌾</div>
+                <h3>PM Kisan Samman Nidhi</h3>
+                <p>₹6,000/year for farmers</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="ayushman-bharat.html" class="card">
+                <div class="card-icon">🏥</div>
+                <h3>Ayushman Bharat</h3>
+                <p>₹5 लाख health cover</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="sukanya-samriddhi.html" class="card">
+                <div class="card-icon">👧</div>
+                <h3>Sukanya Samriddhi</h3>
+                <p>Beti ke liye savings scheme</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-awas.html" class="card">
+                <div class="card-icon">🏠</div>
+                <h3>PM Awas Yojana</h3>
+                <p>Affordable housing for all</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-mudra.html" class="card">
+                <div class="card-icon">💼</div>
+                <h3>PM Mudra Loan</h3>
+                <p>Business loan up to ₹10 lakh</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-fasal-bima.html" class="card">
+                <div class="card-icon">🌾</div>
+                <h3>PM Fasal Bima Yojana</h3>
+                <p>फसल बीमा योजना</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="atal-pension.html" class="card">
+                <div class="card-icon">👴</div>
+                <h3>Atal Pension Yojana</h3>
+                <p>60 साल बाद पेंशन</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-jan-dhan.html" class="card">
+                <div class="card-icon">🏦</div>
+                <h3>PM Jan Dhan Yojana</h3>
+                <p>हर परिवार का बैंक खाता</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-ujjwala.html" class="card">
+                <div class="card-icon">🔥</div>
+                <h3>PM Ujjwala Yojana</h3>
+                <p>मुफ्त LPG कनेक्शन</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-suraksha-bima.html" class="card">
+                <div class="card-icon">🛡️</div>
+                <h3>PM Suraksha Bima</h3>
+                <p>₹2 लाख दुर्घटना बीमा</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-jeevan-jyoti.html" class="card">
+                <div class="card-icon">💙</div>
+                <h3>PM Jeevan Jyoti Bima</h3>
+                <p>₹2 लाख जीवन बीमा</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="beti-bachao.html" class="card">
+                <div class="card-icon">👧</div>
+                <h3>Beti Bachao Beti Padhao</h3>
+                <p>बेटी बचाओ, बेटी पढ़ाओ</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-svanidhi.html" class="card">
+                <div class="card-icon">🛒</div>
+                <h3>PM SVANidhi</h3>
+                <p>रेहड़ी वालों को ₹50,000 लोन</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="mgnrega.html" class="card">
+                <div class="card-icon">👷</div>
+                <h3>MGNREGA</h3>
+                <p>ग्रामीण रोज़गार गारंटी</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-matsya-sampada.html" class="card">
+                <div class="card-icon">🐟</div>
+                <h3>PM Matsya Sampada</h3>
+                <p>मछुआरों की आय दुगुनी</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-jay.html" class="card">
+                <div class="card-icon">💊</div>
+                <h3>PM Jan Aushadhi</h3>
+                <p>Affordable medicines</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-scholarship.html" class="card">
+                <div class="card-icon">🎓</div>
+                <h3>PM Scholarship</h3>
+                <p>Scholarship for SC students</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="pm-kaushal-vikas.html" class="card">
+                <div class="card-icon">🛠️</div>
+                <h3>PM Kaushal Vikas</h3>
+                <p>Free skill training for youth</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="standup-india.html" class="card">
+                <div class="card-icon">🚀</div>
+                <h3>Stand Up India</h3>
+                <p>Loan for SC/ST & women entrepreneurs</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+            <a href="startup-india.html" class="card">
+                <div class="card-icon">💡</div>
+                <h3>Startup India</h3>
+                <p>Support for startups</p>
+                <span class="card-cta">Read More →</span>
+            </a>
+        </div>
+    </section>
+
+</main>
+
+<footer class="footer">
+    <div class="container">
+        <p>&copy; 2026 YojnaDeep | योजनाओं का दीप</p>
+        <p>
+            <a href="../index.html">Home</a> ·
+            <a href="index.html">Yojana</a> ·
+            <a href="../about.html">About Us</a> ·
+            <a href="../privacy-policy.html">Privacy Policy</a> ·
+            <a href="../contact.html">Contact Us</a>
+        </p>
+    </div>
+</footer>
+
+</body>
+</html>
