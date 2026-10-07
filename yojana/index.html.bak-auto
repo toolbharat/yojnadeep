@@ -1,6 +1,14 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FLK6E7NJQ3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FLK6E7NJQ3');
+</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Government Yojanas - सारी Yojana List | YojnaDeep</title>
@@ -356,21 +364,218 @@
             </a>
 
 
-        </div>
+       
+            <a href="e-shram.html" class="card">
+                <div class="card-icon">🪪</div>
+                <h3>e-Shram Card</h3>
+                <p>National database for unorganized workers</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-surya-ghar.html" class="card">
+                <div class="card-icon">🔆</div>
+                <h3>PM Surya Ghar Muft Bijli Yojana</h3>
+                <p>Free solar electricity for homes</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-internship.html" class="card">
+                <div class="card-icon">💼</div>
+                <h3>PM Internship Scheme</h3>
+                <p>Internship for youth in top companies</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-vaya-vandana.html" class="card">
+                <div class="card-icon">👵</div>
+                <h3>PM Vaya Vandana Yojana</h3>
+                <p>Pension scheme for senior citizens</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-gramin-awas.html" class="card">
+                <div class="card-icon">🏡</div>
+                <h3>PM Gramin Awas Yojana</h3>
+                <p>Pucca house for rural poor</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="jal-jeevan-mission.html" class="card">
+                <div class="card-icon">🚰</div>
+                <h3>Jal Jeevan Mission</h3>
+                <p>Tap water connection for every home</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="swachh-bharat-mission.html" class="card">
+                <div class="card-icon">🧹</div>
+                <h3>Swachh Bharat Mission</h3>
+                <p>Clean India mission</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-krishi-sinchai.html" class="card">
+                <div class="card-icon">💧</div>
+                <h3>PM Krishi Sinchai Yojana</h3>
+                <p>Irrigation for every farm</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-gram-sadak.html" class="card">
+                <div class="card-icon">🛣️</div>
+                <h3>PM Gram Sadak Yojana</h3>
+                <p>All-weather road connectivity</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="digital-india.html" class="card">
+                <div class="card-icon">💻</div>
+                <h3>Digital India Mission</h3>
+                <p>Digital empowerment of citizens</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="make-in-india.html" class="card">
+                <div class="card-icon">🏭</div>
+                <h3>Make in India</h3>
+                <p>Promote manufacturing in India</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="skill-india.html" class="card">
+                <div class="card-icon">🎯</div>
+                <h3>Skill India Mission</h3>
+                <p>Skill development for youth</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-matru-vandana.html" class="card">
+                <div class="card-icon">🤰</div>
+                <h3>PM Matru Vandana Yojana</h3>
+                <p>Maternity benefit for pregnant women</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="janani-suraksha.html" class="card">
+                <div class="card-icon">👶</div>
+                <h3>Janani Suraksha Yojana</h3>
+                <p>Cash assistance for institutional delivery</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-yasasvi.html" class="card">
+                <div class="card-icon">🎓</div>
+                <h3>PM YASASVI Scholarship</h3>
+                <p>Scholarship for OBC EBC DNT students</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="nsp-scholarship.html" class="card">
+                <div class="card-icon">📖</div>
+                <h3>National Scholarship Portal</h3>
+                <p>Central scholarships for students</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-egp.html" class="card">
+                <div class="card-icon">💼</div>
+                <h3>PM Employment Generation Programme</h3>
+                <p>Loan for small businesses</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="mission-shakti.html" class="card">
+                <div class="card-icon">🌸</div>
+                <h3>Mission Shakti</h3>
+                <p>Safety and empowerment of women</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="poshan-abhiyan.html" class="card">
+                <div class="card-icon">🍎</div>
+                <h3>Poshan Abhiyan</h3>
+                <p>Nutrition for children and women</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="kisan-rail.html" class="card">
+                <div class="card-icon">🚂</div>
+                <h3>Kisan Rail Yojana</h3>
+                <p>Transport fruits vegetables by train</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-kisan-urja-suraksha.html" class="card">
+                <div class="card-icon">⚡</div>
+                <h3>PM Kisan Urja Suraksha</h3>
+                <p>Solar pump for farmers</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="national-apprenticeship.html" class="card">
+                <div class="card-icon">🛠️</div>
+                <h3>National Apprenticeship Scheme</h3>
+                <p>Apprenticeship training for youth</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-dhan-mandhan.html" class="card">
+                <div class="card-icon">💰</div>
+                <h3>PM Dhan Mandhan Yojana</h3>
+                <p>Small traders pension scheme</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="ayushman-vay-vandana.html" class="card">
+                <div class="card-icon">👴</div>
+                <h3>Ayushman Vay Vandana</h3>
+                <p>Health cover for senior citizens</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-lakhpati-didi.html" class="card">
+                <div class="card-icon">👩‍🌾</div>
+                <h3>PM Lakhpati Didi Yojana</h3>
+                <p>Women SHG income support</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-annadata.html" class="card">
+                <div class="card-icon">🌾</div>
+                <h3>PM Annadata Aay Sanrakshan</h3>
+                <p>Minimum support price for farmers</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="atal-bhujal.html" class="card">
+                <div class="card-icon">💧</div>
+                <h3>Atal Bhujal Yojana</h3>
+                <p>Ground water management</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="namami-gange.html" class="card">
+                <div class="card-icon">🌊</div>
+                <h3>Namami Gange Mission</h3>
+                <p>Clean Ganga river</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="bharat-net.html" class="card">
+                <div class="card-icon">📡</div>
+                <h3>BharatNet Project</h3>
+                <p>Broadband for villages</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+            <a href="pm-kisan-samriddhi.html" class="card">
+                <div class="card-icon">🌱</div>
+                <h3>PM Kisan Samriddhi Yojana</h3>
+                <p>Farmer income support extension</p>
+                <span class="card-cta">Read More &rarr;</span>
+            </a>
+
+ </div>
     </section>
 
 </main>
-
-<footer class="footer">
-    <div class="container">
-        <p>&copy; 2026 YojnaDeep | योजनाओं का दीप</p>
-        <p>
-            <a href="../index.html">Home</a> ·
-            <a href="index.html">Yojana</a> ·
-            <a href="../index.html#about">About</a>
-        </p>
-    </div>
-</footer>
-
-</body>
-</html>
