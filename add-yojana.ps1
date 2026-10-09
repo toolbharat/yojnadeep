@@ -37,7 +37,8 @@ foreach ($y in $yojanas) {
     $html = $html.Replace('{{HELPLINE}}', $y.helpline)
     $html = $html.Replace('{{BASEURL}}', $baseUrl)
 
-    Set-Content -Path $filePath -Value $html -Encoding UTF8
+    $fullPath = Join-Path (Get-Location) $filePath
+[System.IO.File]::WriteAllText($fullPath, $html, (New-Object System.Text.UTF8Encoding $false))
     Write-Host "  Created: $($y.filename).html" -ForegroundColor Green
     $created++
 }
